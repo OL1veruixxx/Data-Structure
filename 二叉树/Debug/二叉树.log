@@ -1,0 +1,5 @@
+﻿  二叉树.c
+E:\2021\c--study\bite-c-learning\二叉树\二叉树.c(199,1): warning C4047: “初始化”:“BTNode *”与“int”的间接级别不同
+E:\2021\c--study\bite-c-learning\二叉树\二叉树.c(223,1): warning C4047: “初始化”:“BTNode *”与“int”的间接级别不同
+E:\2021\c--study\bite-c-learning\二叉树\二叉树.c(240,1): warning C4047: “初始化”:“BTNode *”与“int”的间接级别不同
+  二叉树.vcxproj -> E:\2021\c--study\bite-c-learning\二叉树\Debug\二叉树.exe
