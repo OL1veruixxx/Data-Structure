@@ -1,0 +1,42 @@
+[
+    {
+        "caretX": 1,
+        "caretY": 18,
+        "filename": "C:/Users/Song Rui/Documents/projects/DataBase_Zero/main.cpp",
+        "focused": false,
+        "isOpen": true,
+        "leftChar": 1,
+        "order": 0,
+        "topLine": 7
+    },
+    {
+        "caretX": 1,
+        "caretY": 1,
+        "filename": "C:/Users/Song Rui/Documents/projects/DataBase_Zero/Statement.h",
+        "focused": false,
+        "isOpen": true,
+        "leftChar": 1,
+        "order": 3,
+        "topLine": 1
+    },
+    {
+        "caretX": 1,
+        "caretY": 16,
+        "filename": "C:/Users/Song Rui/Documents/projects/DataBase_Zero/DataBase.h",
+        "focused": true,
+        "isOpen": true,
+        "leftChar": 1,
+        "order": 1,
+        "topLine": 1
+    },
+    {
+        "caretX": 29,
+        "caretY": 21,
+        "filename": "C:/Users/Song Rui/Documents/projects/DataBase_Zero/DataBase.cpp",
+        "focused": false,
+        "isOpen": true,
+        "leftChar": 1,
+        "order": 2,
+        "topLine": 16
+    }
+]
